@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Talita Félix
 
 - I'm currently learning C, CPP and PYTHON
-- I'm working on a line follower robot
 - It's not been a long time since I started learning code, but I'm here to get excellent at it with lot's of effort and dedication
 
 <!--
