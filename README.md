@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Talita Félix
 
-- I'm currently learning C, CPP and PYTHON
-- It's not been a long time since I started learning code, but I'm here to get excellent at it with lot's of effort and dedication
+- 🎒 I'm a Control and Automantion Engeneering student at Federal University of Minas Gerais and a member of it's robotics team Autobotz.
+- 📚 I have a great knowlogy in C and C++, I have done some projects with Arduino and know a lit bit of eletronics.
+- 🌱 I'm currently learning how to work with ROS and gazebo and I'm studiyng python, php and Computer Vision.
 
 <!--
 Here are some ideas to get you started:
